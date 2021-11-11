@@ -43,6 +43,10 @@ https://user-images.githubusercontent.com/49099551/141296656-99a9382b-fc6b-408f-
 * Client application - an android application that, using the RemoteCanvas API, draws graphic messages on the projector. 
 
 
+https://user-images.githubusercontent.com/49099551/141305224-d17a0be4-0d8c-40f3-b766-57251145a1aa.mp4
+
+
+
 ## DESCRIPTION
 
 The CRYSTAL_HUD_MANAGER module is an android application that is installed on the host phone and acts as a gateway through which applications send messages to the projector.
