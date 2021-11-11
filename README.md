@@ -35,6 +35,24 @@ https://user-images.githubusercontent.com/49099551/141296656-99a9382b-fc6b-408f-
 * Weight: 115g
 
 
+## TERMINOLOGY
+
+* Projector - device for displaying projected images in windshield.
+* Host phone — the phone on which the manager and client applications are installed.
+* Manager - a gateway program through which client applications send graphic messages to the projector.
+* Client application - an android application that, using the RemoteCanvas API, draws graphic messages on the projector. 
+
+
+## DESCRIPTION
+
+The CRYSTAL_HUD_MANAGER module is an android application that is installed on the host phone and acts as a gateway through which applications send messages to the projector.
+
+The CRYSTAL_HUD_MANAGER function as a gateway includes:
+* Controlling the concurrent access model of client applications to the projector
+* Prioritize access for different applications
+* Authorization of client applications.
+* Work with three modes: asynchronous messages, synchronous messages, streaming. 
+
 
 ## WEB RESOURCES:
 
