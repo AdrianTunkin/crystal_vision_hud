@@ -1,7 +1,8 @@
 # CRYSTAL VISION HUD
 ### Head-Up Display (HUD) System for safe driving
 
-#### Attention: This repository does not contain diagrams and drawings of projector optics.
+#### Attention: This repository does not contain diagrams and drawings of projector optics. 
+#### Also repository does not contain information regarding mechanical parts, including servos.
 
 
 Crystal Vision is a portable Head-Up Display (HUD) system that projects an image on the windshield of your car. 
