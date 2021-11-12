@@ -9,6 +9,13 @@ Both the driver and the passengers see it as a semi-transparent image that “le
 
 Hardware directory contains hardware schematics, design sources, and revision changes.
 
+![image](https://user-images.githubusercontent.com/49099551/141489558-030077ef-66f4-4935-9c06-759f7649cf16.png)
+
+
+The Crystal Vision HUD electronic board is 6 layer PCB.
+
+![Crystal-HUD PCB](https://user-images.githubusercontent.com/49099551/141488930-c96052b2-1ed0-468a-831e-c55ef6960721.png)
+
 
 ### Hardware revision changes log:
 
