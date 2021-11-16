@@ -14,6 +14,15 @@ Hardware directory contains hardware schematics, design sources, and revision ch
 
 The Crystal Vision HUD electronic board is 6 layer PCB.
 
+#### Technical specifications
+
+    CPU: Allwinner H6 Quad-Core 64-bit Cortex-A53 @ 1.8GHz
+    RAM: LPDDR3 2Gb @ 533Mhz
+    ROM: 32Gb TF/MMC
+    Power supply: DC 12V, 1.2A (max)
+    Interfaces: IEEE 802.11 b/g/n (WiFi), Bluetooth 5.1, USB 2.0
+
+
 ![Crystal-HUD PCB](https://user-images.githubusercontent.com/49099551/141488930-c96052b2-1ed0-468a-831e-c55ef6960721.png)
 
 
