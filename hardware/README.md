@@ -7,7 +7,7 @@ Both the driver and the passengers see it as a semi-transparent image that “le
 
 #### Copyright (C) 2015-2018, Crystal Vision Ltd.
 
-Hardware directory contains hardware schematics, design sources, and revision changes.
+Hardware directory contains hardware schematics, design sources, and revision changes designed in KiCad EDA software.
 
 ![image](https://user-images.githubusercontent.com/49099551/141489558-030077ef-66f4-4935-9c06-759f7649cf16.png)
 
