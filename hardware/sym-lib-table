@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Crystal-HUDv2.3-cache)(type Legacy)(uri ${KIPRJMOD}/Crystal-HUDv2.3-cache.lib)(options "")(descr ""))
+  (lib (name Crystal-HUDv2.3)(type Legacy)(uri ${KIPRJMOD}/Crystal-HUDv2.3.lib)(options "")(descr ""))
+)
